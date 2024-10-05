@@ -1,0 +1,115 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    background-color: #68a357;
+    padding: 50px;
+    color: white;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+header h2 {
+    font-size: 1.5em;
+    margin-bottom: 30px;
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
+}
+
+#benefit-summary {
+    padding: 20px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+#benefit-summary p {
+    font-size: 1.2em;
+    line-height: 1.6em;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#cta {
+    text-align: center;
+    padding: 30px;
+    background-color: #f9f9f9;
+}
+
+#cta button {
+    background-color: #68a357;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#cta button:hover {
+    background-color: #558b2f;
+}
+
+#benefits {
+    background-color: #fff;
+    padding: 40px;
+    text-align: center;
+}
+
+#benefits h3 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#benefits ul {
+    list-style: none;
+    padding: 0;
+}
+
+#benefits li {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+#social-proof {
+    padding: 40px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+#social-proof h3 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#social-proof blockquote {
+    font-size: 1.1em;
+    margin: 20px auto;
+    max-width: 600px;
+    color: #555;
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9em;
+}
