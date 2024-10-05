@@ -29,26 +29,26 @@ header img {
     height: auto;
 }
 
-#benefit-summary {
+benefit-summary {
     padding: 20px;
     background-color: # yellow;
     text-align: center;
 }
 
-#benefit-summary p {
+benefit-summary p {
     font-size: 1.2em;
     line-height: 1.6em;
     max-width: 800px;
     margin: 0 auto;
 }
 
-#cta {
+cta {
     text-align: center;
     padding: 30px;
     background-color: #orange;
 }
 
-#cta button {
+cta button {
     background-color: #68a357;
     color: white;
     padding: 15px 30px;
@@ -58,43 +58,43 @@ header img {
     border-radius: 5px;
 }
 
-#cta button:hover {
+cta button:hover {
     background-color: #558b2f;
 }
 
-#benefits {
+benefits {
     background-color: #fff;
     padding: 40px;
     text-align: center;
 }
 
-#benefits h3 {
+benefits h3 {
     font-size: 2em;
     margin-bottom: 20px;
 }
 
-#benefits ul {
+benefits ul {
     list-style: none;
     padding: 0;
 }
 
-#benefits li {
+benefits li {
     font-size: 1.2em;
     margin: 10px 0;
 }
 
-#social-proof {
+social-proof {
     padding: 40px;
     background-color: #f9f9f9;
     text-align: center;
 }
 
-#social-proof h3 {
+social-proof h3 {
     font-size: 2em;
     margin-bottom: 20px;
 }
 
-#social-proof blockquote {
+social-proof blockquote {
     font-size: 1.1em;
     margin: 20px auto;
     max-width: 600px;
