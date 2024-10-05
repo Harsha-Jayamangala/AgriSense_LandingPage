@@ -1,9 +1,9 @@
 /* Global Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-Timesnewroman: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
+    background-color: blue;
     color: #333;
 }
 
@@ -11,7 +11,7 @@ header {
     text-align: center;
     background-color: #68a357;
     padding: 50px;
-    color: white;
+    color: black;
 }
 
 header h1 {
@@ -31,7 +31,7 @@ header img {
 
 #benefit-summary {
     padding: 20px;
-    background-color: #ffffff;
+    background-color: # yellow;
     text-align: center;
 }
 
@@ -45,7 +45,7 @@ header img {
 #cta {
     text-align: center;
     padding: 30px;
-    background-color: #f9f9f9;
+    background-color: #orange;
 }
 
 #cta button {
